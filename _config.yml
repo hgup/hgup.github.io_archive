@@ -25,14 +25,14 @@ instagram_username: hurgpt
 #linkedin_username: hurgpt
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: channel/UCyZazp3KEFj76D36H8Tcjyg
+youtube_username: channel//UCyZazp3KEFj76D36H8Tcjyg
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: This Site
-  icon: fa-brands fa-medium
+  icon: fab fa-medium
   url: https://hurshgupta.medium.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
