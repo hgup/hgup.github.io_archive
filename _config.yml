@@ -12,28 +12,28 @@ email: hurshgupta1@gmail.com
 website: hgup.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: hurgpt
+#twitter_username: hurgpt
 github_username:  hgup
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: hurgpt
-linkedin_username: hurgpt
+#linkedin_username: hurgpt
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: UCyZazp3KEFj76D36H8Tcjyg
+youtube_username: channel/UCyZazp3KEFj76D36H8Tcjyg
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: This Site
-  icon: fas fa-globe
-  url: https://hgup.github.io
+  icon: fa-brands fa-medium
+  url: https://hurshgupta.medium.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
