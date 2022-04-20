@@ -9,7 +9,7 @@ version: 2
 name: Hursh Gupta
 title: Student @ SSSIHL
 email: hurgpt@gmail.com
-website: hgup.github.io
+#website: hgup.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -62,9 +62,24 @@ content:
         sub_title: BSc Mathematics, Computer Science and Statistics
         quote: >
           Established in 1981, SSSIHL is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
-        description: | # this will include new lines to allow paragraphs
-          My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.\n
+        description: |
+          My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.
+
           The second being, when I go there and live the campus life (which I highly await). I am highly inspired by all my Professors and of course The Master Himself.
+
+      - layout: left
+        title: Sri Sathya Sai Higher Secondary School
+        caption: 2019 - 2021
+        sub_title: Mathematics, Physics, Chemistry and Computer Science
+        quote: > 
+          The Sri Sathya Sai Higher Secondary School was inspired and initiated by Bhagawan Sri Sathya Sai Baba Himself. He is its life and soul, motivation and goal.
+        description: 
+          This is where I was introduced to the __Ways of Sai__, this is where I learnt so many things about how to conduct myself.
+
+          Not to mention, the amazing teachers and brothers that I was able to share my time here with. And also the countless number of activities that Swami had created for us.
+
+          Everyday being as novel as the first. A drive and motivation that outlasts any other. This was what I would call my time at SSSHSS.
+         
 
 # Footer
 footer_show_references: true
