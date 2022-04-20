@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Hursh Gupta
 title: Student @ SSSIHL
-email: hurshgupta1@gmail.com
+email: hurgpt@gmail.com
 website: hgup.github.io
 
 # Dark Mode (true/false/never)
@@ -25,13 +25,13 @@ instagram_username: hurgpt
 #linkedin_username: hurgpt
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: HurshonWinux
+youtube_username: hyperkey
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: This Site
+- title: Medium Link
   icon: fab fa-medium
   url: https://hurshgupta.medium.com
 # - title: another link
@@ -63,7 +63,7 @@ content:
         quote: >
           Established in 1981, SSSIHL is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
         description: | # this will include new lines to allow paragraphs
-          My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.
+          My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.\n
           The second being, when I go there and live the campus life (which I highly await). I am highly inspired by all my Professors and of course The Master Himself.
 
 # Footer
