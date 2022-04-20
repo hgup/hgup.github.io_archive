@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I am Hursh Gupta. I currently am having fun in life and hence, don't have much to talk about.
+  Hey, I am Hursh. I currently am having fun in life and hence, don't have much to talk about.
 
   My Current Grindset is: <mark>Canva</mark> and <mark>Bullet Journaling</mark>
 
@@ -61,7 +61,7 @@ content:
         caption: 2021 - Present
         sub_title: BSc Mathematics, Computer Science and Statistics
         quote: >
-          Established in 1981, SSSIHL is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
+          Established in 1981, [SSSIHL](https://www.sssihl.edu.in) is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
         description: |
           My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.
 
@@ -72,8 +72,8 @@ content:
         caption: 2019 - 2021
         sub_title: Mathematics, Physics, Chemistry and Computer Science
         quote: > 
-          The Sri Sathya Sai Higher Secondary School was inspired and initiated by Bhagawan Sri Sathya Sai Baba Himself. He is its life and soul, motivation and goal.
-        description: 
+          The [Sri Sathya Sai Higher Secondary School](https://www.ssshss.edu.in/) was inspired and initiated by Bhagawan Sri Sathya Sai Baba Himself. He is its life and soul, motivation and goal.
+        description: |
           This is where I was introduced to the __Ways of Sai__, this is where I learnt so many things about how to conduct myself.
 
           Not to mention, the amazing teachers and brothers that I was able to share my time here with. And also the countless number of activities that Swami had created for us.
