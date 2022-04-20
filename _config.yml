@@ -52,9 +52,9 @@ about_content: |
 
   **My Current Grindset**: <mark>Bullet Journaling</mark>
 
-  **Updates** [20.04.22]: Preparing for <mark><a href="https://www.soa.org/education/exam-req/edu-exam-fm-detail/">Exam FM</a></mark>.
+  **Updates** [20.04.22]: Preparing for <mark><a style="text-decoration: none" href="https://www.soa.org/education/exam-req/edu-exam-fm-detail/" target="_blank">Exam FM</a></mark>.
 
-  **Recommend you to hear:** HalcyonMusic's <mark><a href="https://www.youtube.com/watch?v=X6Z2sEfeoZk">Snow Halation</a></mark> and <mark><a href="https://www.youtube.com/watch?v=56j4TRL5yuQ">Higehiro OP</a></mark>.
+  **Recommend you to hear:** HalcyonMusic's <mark><a style="text-decoration: none" href="https://www.youtube.com/watch?v=X6Z2sEfeoZk" target="_blank">Snow Halation</a></mark> and <mark><a style="text-decoration: none" href="https://www.youtube.com/watch?v=56j4TRL5yuQ" target="_blank">Higehiro OP</a></mark>.
 
   I get interested very easily and disinterested at the same rate. Looking for Novelty in life.
 
@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <a href="https://www.sssihl.edu.in">Sri Sathya Sai Institute of Higher Learning</a>
+        title: <a href="https://www.sssihl.edu.in" target="_blank">Sri Sathya Sai Institute of Higher Learning</a>
         caption: 2021 - Present
         sub_title: BSc Mathematics, Computer Science and Statistics
         quote: >
@@ -75,7 +75,7 @@ content:
           The second being, when I go there and live the campus life (which I highly await). I am highly inspired by all my Professors and of course The Master Himself.
 
       - layout: left
-        title: <a href="https://www.ssshss.edu.in">Sri Sathya Sai Higher Secondary School</a>
+        title: <a href="https://www.ssshss.edu.in" target="_blank">Sri Sathya Sai Higher Secondary School</a>
         caption: 2019 - 2021
         sub_title: Mathematics, Physics, Chemistry and Computer Science
         quote: > 
