@@ -4,11 +4,17 @@
 
 @import 'modern-resume-theme';
 
+
+
 a {
-  color: #eeeeee;
+  color: #333333;
   text-decoration: underline;
   white-space: nowrap;
   &:hover {
-    color: #aaaaaa;
+    color: #555555;
   }
+}
+
+mark {
+  white-space: nowrap;
 }
