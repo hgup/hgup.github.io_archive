@@ -3,3 +3,9 @@
 ---
 
 @import 'modern-resume-theme';
+
+$accent: #1985A1;
+
+a {
+  color: $accent;
+}
