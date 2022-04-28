@@ -6,11 +6,10 @@
 
 
 body{
-  background-color: #151C22;
 }
 
 a {
-  color: #EDE6DB;
+  color: #333333;
   text-decoration: underline;
   &:hover {
     color: #999999;
@@ -21,3 +20,20 @@ mark {
   white-space: nowrap;
 }
 
+.dark {
+
+  background-color: #151C22;
+  color: #e6e6e6;
+
+  mark {
+    color: #151C22;
+    background-color: #e6e6e6;
+  }
+
+  a {
+    color: #EDE6DB;
+    &:hover {
+      color: #999999;
+    }
+  }
+}
