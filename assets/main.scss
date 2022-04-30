@@ -4,20 +4,3 @@
 
 @import 'modern-resume-theme';
 
-
-
-a {
-  color: #333333;
-  text-decoration: underline;
-  &:hover {
-    color: #555555;
-  }
-}
-
-mark {
-  white-space: nowrap;
-}
-
-h4 a{
-  white-space: wrap;
-}
