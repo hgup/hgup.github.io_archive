@@ -3,7 +3,7 @@ repository: hgup/hgup.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 3
+version: 2
 
 # Personal info
 name: Hursh Gupta
@@ -12,7 +12,7 @@ email: hurgpt@gmail.com
 #website: hgup.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: hurgpt
@@ -48,13 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: |
-  Hey, I am Hursh.
+  Hey, I am Hursh. I am currently having fun in life and hence, don't have much to talk about.
 
   **My Current Grindset**: <mark>Bullet&nbsp;Journaling</mark>
 
   **Updates** [20.04.22]: Preparing for <a  href="https://www.soa.org/education/exam-req/edu-exam-fm-detail/" target="_blank">Exam&nbsp;FM</a>.
 
-  **Recommend you to hear:** HalcyonMusic's <a  href="https://www.youtube.com/watch?v=X6Z2sEfeoZk" target="_blank">Snow&nbsp;Halation</a> and <a href="https://www.youtube.com/watch?v=56j4TRL5yuQ" target="_blank">Higehiro&nbsp;OP</a>.
+    **Recommend you to hear:** HalcyonMusic's <a  href="https://www.youtube.com/watch?v=X6Z2sEfeoZk" target="_blank">Snow&nbsp;Halation</a> and <a href="https://www.youtube.com/watch?v=56j4TRL5yuQ" target="_blank">Higehiro&nbsp;OP</a>.
 
   I get interested very easily and disinterested at the same rate. Looking for <mark>Novelty</mark> in life.
 
@@ -68,11 +68,11 @@ content:
         caption: 2021 - Present
         sub_title: BSc Mathematics, Computer Science and Statistics
         quote: >
-          Established in 1981, SSSIHL is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
+          Established in 1981, SSSIHL</a> is perhaps the most unique university in the world. Our need-based curricula, values-oriented teaching and associated public service component are our biggest strengths.
         description: |
-          This part of the journey is yet to be finished.
+          My time in SSSIHL has been wonderful. I am very lucky to be able to experience it in two different ways. The first being in the online medium, where I could only understand how to conduct myself and interact with my Professors.
 
-          A long way to the summary. I hope so.
+          The second being, when I go there and live the campus life (which I highly await). I am highly inspired by all my Professors and of course The Master Himself.
 
       - layout: left
         title: <a href="https://www.ssshss.edu.in" target="_blank">Sri Sathya Sai Higher Secondary School</a>
